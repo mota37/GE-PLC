@@ -1,0 +1,1 @@
+"./main.obj" "./lm4f120h5qr_startup_ccs.obj" "../lm4f120h5qr.cmd" -l"libc.a" -l"C:\StellarisWare/driverlib/ccs-cm4f/Debug/driverlib-cm4f.lib" 
